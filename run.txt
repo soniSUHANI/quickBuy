@@ -1,0 +1,4 @@
+1st run the backend by going into the backend folder and using the command node .\index.js
+for runing the admin use the cmd npm run dev
+for running the frontend use npm start
+MongoDbURI=mongodb+srv://QuickBuydb:SoniSuhani@cluster0.gvap2zl.mongodb.net/e-commerce
